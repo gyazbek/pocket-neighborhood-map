@@ -7,3 +7,5 @@ Filterable map with useful Seattle neighborhood service markers, utilizes data f
 
 # Setup
 No special setup required. Just open the html file in your favorite browser.
+
+![Screenshot](/Screenshot.PNG?raw=true "Screenshot")
