@@ -1,6 +1,8 @@
 # Pocket-Neighborhood-Map
 Filterable map with useful Seattle neighborhood service markers, utilizes data from Socrata
 
+Demo: http://guiyazbek.com/PocketNeighborhoodMap/
+
 # Dependencies
 - jQuery 2.2.2 
 - leaflet 0.7.7
